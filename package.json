@@ -1,0 +1,29 @@
+{
+  "title": "Identicone",
+  "name": "identicone",
+  "version": "1.0.0",
+  "description": "A random identicon avatar generator Library.",
+  "main": "dist/identicone.js",
+  "types": "dist/identicone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jqrony/identicone.git"
+  },
+  "keywords": [
+    "identicone",
+    "random profile",
+    "profile generator",
+    "identicone",
+    "random identicon",
+    "identicon generator"
+  ],
+  "author": "Shahzada Modassir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jqrony/identicone/issues"
+  },
+  "homepage": "https://github.com/jqrony/identicone#readme"
+}
